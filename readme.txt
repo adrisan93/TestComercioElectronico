@@ -28,7 +28,7 @@ Maven 3.6+
 Podemos identificar las diferentes dependencias necesarias en el fichero de configuración pom.xml
 
 Instrucciones
-Clonar el repositorio a tu máquina local o descargar el archivo ZIP y extraerlo.
+Clonar el repositorio a tu máquina local (https://github.com/adrisan93/TestComercioElectronico.git) o descargar el archivo ZIP y extraerlo.
 Abrir una terminal y navegar al directorio del proyecto.
 Ejecutar mvn clean install para compilar el proyecto y generar el archivo JAR.
 Iniciar la aplicación con java -jar target/<nombre-del-artefacto>.jar.
